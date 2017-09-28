@@ -5,7 +5,7 @@ import unittest
 # Homework 3 - Code
 
 ##COMMENT YOUR CODE WITH:
-# Section Day/Time: 
+# Section Day/Time: Section 004/Thursday/3-4PM
 # People you worked with: 
 
 ######### DO NOT CHANGE PROVIDED CODE #########
